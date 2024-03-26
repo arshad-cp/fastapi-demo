@@ -1,0 +1,10 @@
+fastapi~=0.110.0
+sqlalchemy~=2.0.29
+openpyxl~=3.1.2
+uvicorn[standard]
+pydantic~=2.6.4
+celery~=5.3.6
+psycopg2-binary
+load_dotenv
+python-dotenv~=1.0.1
+starlette~=0.36.3
